@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotoAnalizator_AN-027", "TotoAnalizator_AN-027\TotoAnalizator_AN-027.csproj", "{C3DC1553-010F-4340-BE90-33565C611B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DC1553-010F-4340-BE90-33565C611B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DC1553-010F-4340-BE90-33565C611B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DC1553-010F-4340-BE90-33565C611B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DC1553-010F-4340-BE90-33565C611B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5670393D-7862-4645-973E-8B636BE3B60D}
+	EndGlobalSection
+EndGlobal
