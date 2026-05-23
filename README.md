@@ -1,54 +1,48 @@
 # 🎯 Toto Analyzer (.NET 8)
 
-Console application for statistical analysis of historical Toto 6/49 lottery data.
+## 📌 Описание
 
-Developed by:
-Aleksandar Novoselski
-South West University
+Toto Analyzer е конзолно приложение, разработено на C# и .NET 8, предназначено за статистически анализ на исторически данни от играта „Тото 6/49“ на Български Спортен Тотализатор.
+
+Приложението автоматично изтегля реални исторически данни от toto.bg чрез HTTP заявки, обработва TXT и DOCX файлове и извършва различни статистически анализи чрез LINQ.
+
+---
+
+# 👨‍💻 Разработчик
+
+Aleksandar Novoselski  
+South West University  
 Faculty Number: 23251421027
 
 ---
 
-# 📌 Features
+# ⚙️ Основни функционалности
 
-✅ TXT file parsing  
-✅ DOCX file parsing  
-✅ LINQ statistical analysis  
-✅ Top N numbers  
-✅ Hot pairs analysis  
-✅ Distribution by ranges  
-✅ ASCII bar charts  
-✅ Heat map visualization  
-✅ Interactive console menu  
+✅ Автоматично изтегляне на данни чрез HttpClient  
+✅ Поддръжка на TXT файлове  
+✅ Поддръжка на DOCX файлове  
+✅ Автоматичен избор на parser  
+✅ Статистически анализ чрез LINQ  
+✅ Топ N най-чести числа  
+✅ Анализ на „горещи двойки“  
+✅ Разпределение по диапазони  
+✅ ASCII bar chart визуализация  
+✅ Heat Map визуализация  
+✅ Интерактивно конзолно меню  
 ✅ Input validation  
 ✅ Error handling  
 
 ---
 
-# 🏗 Architecture
+# 🏗 Архитектура на проекта
 
-- Models
-- Data
-- Parsers
-- Services
-- Visualization
-- UI
-- Helpers
+Проектът е разделен на отделни слоеве:
 
----
-
-# ⚙️ Technologies
-
-- C#
-- .NET 8
-- LINQ
-- HttpClient
-- OpenXML SDK
-- Regular Expressions
-
----
-
-# 🚀 Run Project
-
-```bash
-dotnet run
+```text
+Models
+Data
+Parsers
+Services
+Visualization
+UI
+Helpers
