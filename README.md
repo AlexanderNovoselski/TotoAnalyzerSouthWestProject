@@ -34,19 +34,6 @@ Faculty Number: 23251421027
 
 ---
 
-# 🏗 Архитектура на проекта
-
-Проектът е разделен на отделни слоеве:
-
-```text
-Models
-Data
-Parsers
-Services
-Visualization
-UI
-Helpers
-
 ---
 
 # 📸 Снимки на приложението
@@ -86,6 +73,28 @@ Helpers
 ![Heat Map](images/6.jpg)
 
 ---
+
+## 7. Желаете ли да изберете друга година
+
+![Примерна статистика](images/7.jpg)
+
+
+# 🏗 Архитектура на проекта
+
+Проектът е разделен на отделни слоеве:
+
+```text
+Models
+Data
+Parsers
+Services
+Visualization
+UI
+Helpers
+
+---
+
+
 
 ## 7. Примерна статистика
 
