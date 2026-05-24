@@ -46,3 +46,48 @@ Services
 Visualization
 UI
 Helpers
+
+---
+
+# 📸 Снимки на приложението
+
+## 1. Главно меню
+
+![Главно меню](images/1.jpg)
+
+---
+
+## 2. Зареждане на година
+
+![Зареждане на година](images/2.jpg)
+
+---
+
+## 3. Top N Numbers
+
+![Top Numbers](images/3.jpg)
+
+---
+
+## 4. Hot Pairs
+
+![Hot Pairs](images/4.jpg)
+
+---
+
+## 5. Distribution
+
+![Distribution](images/5.jpg)
+
+---
+
+## 6. Heat Map
+
+![Heat Map](images/6.jpg)
+
+---
+
+## 7. Примерна статистика
+
+![Примерна статистика](images/7.jpg)
+
